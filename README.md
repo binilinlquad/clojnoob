@@ -1,3 +1,1 @@
-# noob
-
-Fool's journey in another world
+My Answers for "Clojure for Brave and True" practices.
